@@ -1,3 +1,3 @@
 ### grocery site using local storage
 
-- Live view: https://gtocery-site.netlify.app
+- Live view: https://grocery-siite.netlify.app
